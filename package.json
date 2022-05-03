@@ -1,0 +1,19 @@
+{
+  "name": "udemy_ko_playwright_js_bdd_cucumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/cucumber-js --require cucumber.js --require step-definitions/**/*.js -f json:cucumber_report.json --publish-quiet",
+    "report": "node reporter.js"
+  },
+  "author": "Rajat Verma",
+  "license": "ISC",
+  "dependencies": {
+    "@cucumber/cucumber": "^8.1.2",
+    "chai": "^4.3.6",
+    "cucumber-html-reporter": "^5.5.0",
+    "playwright": "^1.21.1",
+    "prettier": "^2.6.2"
+  }
+}
