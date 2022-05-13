@@ -8,7 +8,8 @@ Automation Testing | Web | Playwright | Javascript | VS Code | BDD | Cucumber | 
 # Tutor: <a href="https://www.udemy.com/user/shinoku911/">Kaniel Outis</a>
 
 ------------------------------------------------------------------------------------------------------------------------
-Learnings from Course : 
+# Learnings from Course : [Summary_UDEMY_KO_Automated Software Testing with Playwright.pdf](https://github.com/rajatt95/Playwright_JS_BDD/files/8687166/Summary_UDEMY_KO_Automated.Software.Testing.with.Playwright.pdf)
+
 ------------------------------------------------------------------------------------------------------------------------
 
 ![image](https://user-images.githubusercontent.com/26399692/166552706-651030f5-795f-444f-8d50-7517426ab4d2.png)
